@@ -2,7 +2,7 @@
 
 function division(a, b){
  if(b==0){
-console.log("no se puede dividir crack");
+console.log("no se puede dividir");
  }else{
     total=(a/b);
     return total;

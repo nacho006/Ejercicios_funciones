@@ -2,7 +2,7 @@
 
 function division(a, b){
  if(b==0){
-console.log("no se puede dividir");
+console.log("no se puede dividir bro");
  }else{
     total=(a/b);
     return total;
